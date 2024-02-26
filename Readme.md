@@ -1,5 +1,5 @@
 # Vending Machine API
-This is the project is about designing an API for a vending machine, allowing users with a “seller” role to add, update or remove products. In contrast, users with a “buyer” role can deposit coins into the machine and make purchases. Your vending machine should only accept 5, 10, 20, 50, and 100 cent coins.
+This project is about designing an API for a vending machine, allowing users with a “seller” role to add, update or remove products. In contrast, users with a “buyer” role can deposit coins into the machine and make purchases. Your vending machine should only accept 5, 10, 20, 50, and 100 cent coins.
 
 The requirements is to make some tasks 
 ![alt text](Tasks.png)
