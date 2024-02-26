@@ -1,0 +1,9 @@
+asgiref
+Django
+djangorestframework
+djangorestframework-simplejwt
+PyJWT
+python-dotenv
+pytz
+sqlparse
+tzdata
